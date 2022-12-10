@@ -1,6 +1,5 @@
 # Olá eu sou o MarceloPRodriguesz!👋
 
-- 🏫 Cursando Ciências da computação na Anhembi Morumbi
 - 🌱 Atualmente estou estudando python
 - 🧠 Entusiasta de Machine Learning
 - 🤩 Me vejo ajudando outras pessoas através de minhas aplicações!
