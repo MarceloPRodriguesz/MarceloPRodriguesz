@@ -1,8 +1,9 @@
 # Olá eu sou o MarceloPRodriguesz!👋
 
 - 🌱 Atualmente estou estudando python
+- 🚀 Aprimorando meus conhecimentos em SQL Server
 - 🧠 Entusiasta de Machine Learning
-- 🤩 Me vejo ajudando outras pessoas através de minhas aplicações!
+- 🤩 Me vejo ajudando várias pessoas através de meus códigos!
 
 
 <div align="center">
