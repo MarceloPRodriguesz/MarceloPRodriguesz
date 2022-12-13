@@ -1,4 +1,4 @@
-# Olá eu sou o MarceloPRodriguesz!👋
+# Olá eu sou o MarceloPRodriguesz!👋✌
 
 - 🌱 Atualmente estou estudando python
 - 🚀 Aprimorando meus conhecimentos em SQL Server
