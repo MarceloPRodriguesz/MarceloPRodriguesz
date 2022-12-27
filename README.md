@@ -2,6 +2,7 @@
 
 - 🌱 Atualmente estou estudando python
 - 🚀 Aprimorando meus conhecimentos em SQL Server
+- 🤖 Aprendendo e se divertindo com API's
 - 🧠 Entusiasta de Machine Learning
 - 🤩 Me vejo ajudando várias pessoas através de meus códigos!
 
